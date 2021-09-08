@@ -249,10 +249,10 @@ header{
     margin: 10px 10px;
 }
 .sneakers .sneakers-1{
-    background-image: url(/img/product-1.jpg);
+    background-image: url(./img/product-1.jpg);
 }
 .sneakers .sneakers-2{
-    background-image: url(/img/product-2.jpg);
+    background-image: url(./img/product-2.jpg);
 }
 .sample-text h2{
     font-size: 36px;
